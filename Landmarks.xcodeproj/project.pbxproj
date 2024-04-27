@@ -128,9 +128,7 @@
 		EFA2D7BA2BDCB57B008CBAAC /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				EFA6DB6B2BDDB442006F76D8 /* ProfileHost.swift */,
-				EFA6DB712BDDBF2E006F76D8 /* ProfileEditor.swift */,
-				EFA6DB6D2BDDB4F0006F76D8 /* ProfileSummary.swift */,
+				EFA6DB732BDDC4A0006F76D8 /* Profile */,
 				EFA6DB682BDDB160006F76D8 /* Category */,
 				EFA6DB572BDD9716006F76D8 /* Hikes */,
 				EFA6DB4E2BDD91EC006F76D8 /* Badges */,
@@ -213,6 +211,16 @@
 				EFA6DB662BDDAAAA006F76D8 /* CategoryItem.swift */,
 			);
 			path = Category;
+			sourceTree = "<group>";
+		};
+		EFA6DB732BDDC4A0006F76D8 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				EFA6DB6B2BDDB442006F76D8 /* ProfileHost.swift */,
+				EFA6DB712BDDBF2E006F76D8 /* ProfileEditor.swift */,
+				EFA6DB6D2BDDB4F0006F76D8 /* ProfileSummary.swift */,
+			);
+			path = Profile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
