@@ -9,8 +9,8 @@
         "isFavorite": true,
         "park": "Joshua Tree National Park",
         "coordinates": {
-            "longitude": -25.094545,
-            "latitude": -50.163288
+            "latitude": -25.094545,
+            "longitude": -50.163288
         },
         "description": "A Antiga Estação Transmissora da Rádio Farroupilha, inaugurado como “Estação Transmissora PRH-2”, mais conhecida como “antiga sede da Rádio Farroupilha”, é um prédio histórico em ruínas e está localizado no bairro Ponta Grossa, em Porto Alegre.",
         "imageName": "Radio_Farroupilh"
